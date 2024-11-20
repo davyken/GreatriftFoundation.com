@@ -7,7 +7,7 @@
     "content-hash": "ac524b10ae5d1ada66823333175bbbb4",
     "packages": [
         {
-            "name": "phpmailer/phpmailer",
+            "name": "davy",
             "version": "v6.5.0",
             "source": {
                 "type": "git",

@@ -1,5 +1,5 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "Davy",
     "autoload": {
         "psr-4": {
             "Priyansh\\Itcompany\\": "src/"
@@ -7,7 +7,7 @@
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Davy"
         }
     ],
     "require": {
